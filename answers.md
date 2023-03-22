@@ -19,3 +19,4 @@ We saw as expected that the run times increased as the value of n became larger.
 
 - **1c.**
 After the tests , we found that Tim sort was significantly faster than q sort. It showed that the worst case was O(n.logn). Tim sort ran quicker for sorted lists. This makes sense , because it optimized to run on nearly sorted or sorted lists this is probably because it is a combination of merge sort and insertion sort.
+<img width="789" alt="Screenshot 2023-03-21 at 11 52 27 PM" src="https://user-images.githubusercontent.com/115839207/226806027-c25f5ef9-4515-46a6-93d9-cb0a0375723c.png">
